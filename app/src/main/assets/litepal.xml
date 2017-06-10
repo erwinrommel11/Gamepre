@@ -1,0 +1,7 @@
+<litepal>
+    <dbname value="game_info" />
+    <version value="1" />
+    <list>
+        <mapping class="com.rommel.gamepre.db.game_info" />
+    </list>
+</litepal>
